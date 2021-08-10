@@ -1,0 +1,6 @@
+code: point-3-d-table-widget
+titles:
+  en: Point 3 D Table Widget
+  it: Point 3 D Table Widget
+group: free
+customUiPath: point-3-d-table-widget.ftl

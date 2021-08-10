@@ -1,0 +1,13 @@
+code: eng2388-bundle
+description: This is the eng2388 bundle
+
+components:
+  plugins:
+    - plugins/eng2388-plugin.yaml
+
+  widgets:
+    - ui/widgets/point-3-d/tableWidget/point-3-d-table-widget-descriptor.yaml
+    - ui/widgets/point-3-d/detailsWidget/point-3-d-details-widget-descriptor.yaml
+    - ui/widgets/point-3-d/formWidget/point-3-d-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
